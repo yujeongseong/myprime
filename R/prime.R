@@ -4,8 +4,8 @@
 #'
 #' @examples
 #'
-#' primenumber(11)
-primenumber <- function(x) {
+#' myprime(11)
+myprime <- function(x) {
   if (x == 1) {
     x_is_prime <- FALSE
   } else if (x == 2) {
