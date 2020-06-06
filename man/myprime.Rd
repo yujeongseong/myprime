@@ -7,7 +7,10 @@
 myprime(x)
 }
 \description{
+The name of the function is myprime.
+The format of the function is myprime(x).
 This function checks prime numbers.
+In other words, If you put one of the counting numbers to x, it tells you whether the number is a prime number or not.
 }
 \examples{
 
